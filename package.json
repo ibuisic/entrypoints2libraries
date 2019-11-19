@@ -2,7 +2,7 @@
   "name": "webpack-entry2lib-plugin",
   "version": "1.0.5",
   "description": "Adds webpack encore entry points to Drupal libraries",
-  "main": "./lib/entry2lib.js",
+  "main": "./lib/webpack-entry2lib-plugin.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,7 +13,7 @@
   "author": "ibuisic",
   "license": "ISC",
   "bin": {
-    "entrylib": "./bin/entry2lib"
+    "entrylib": "./bin/webpack-entry2lib-plugin"
   },
   "engines": {
     "node": "*"
