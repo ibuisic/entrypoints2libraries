@@ -1,4 +1,4 @@
-# ETL
+# Webpack Entry2Lib plugin
 
 Parses Webpack encore entrypoints.json to Drupal libraries.yml
 
